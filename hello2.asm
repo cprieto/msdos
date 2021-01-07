@@ -8,4 +8,3 @@ section .text
   mov dx, message
   int 0x21
   int 0x20
-
