@@ -1,0 +1,5 @@
+ - part 1: A simple hello world, using `0x9`
+ - part 2: A nicer hello world, using sections and `%define`
+ - part 3: Null terminated strings, loops and `0x2`
+ - part 4: Using subroutines and local labels
+ - part 5: Including external files with `%include` and handling the stack
